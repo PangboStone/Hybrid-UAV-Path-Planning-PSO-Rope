@@ -2,6 +2,8 @@
 This repository implement a hybrid path planning solution for transport UAVs. The method combines an improved PSO for global searching with a physics-inspired Rope model for local path refinement, the algorithm generates smooth, collision-free, and dynamically feasible flight paths in challenging 3D environments created from real-world map data. 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+![Prototype_UAV](./figure/UAVprototype.png)
+
 ## 📖 Contents Overview
 * [Project Goal](#-project-goal)
 * [Core Concepts](#-core-concepts)
